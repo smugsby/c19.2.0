@@ -1,0 +1,19 @@
+{
+    "name": "budget-app",
+    "short_name": "ba",
+    "icons": [{
+        "src":"/icons/icon-192x192.png",
+        "type":"image/png",
+        "sizes":"192x192"
+    },
+    {
+        "src":"/icons/icon-96x96.png",
+        "type":"image/png",
+        "sizes":"96x96"
+    }],
+    "theme_color": "#FFFFFF",
+    "background_color": "#1778F2",
+    "start_url": "/",
+    "display": "browser"    
+}
+  
